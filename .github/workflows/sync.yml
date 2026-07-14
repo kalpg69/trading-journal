@@ -1,0 +1,30 @@
+name: sync-journal
+on:
+  schedule:
+    - cron: "*/30 3-10 * * 1-5"   # ≈08:30–16:00 IST every 30 min, Mon–Fri (cron is UTC)
+  workflow_dispatch: {}            # manual "Run workflow" button
+permissions:
+  contents: write
+concurrency: sync-journal
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Pull journal blobs
+        env:
+          SAS: ${{ secrets.CONTAINER_SAS_URL }}
+        run: |
+          base="${SAS%%\?*}"; qs="${SAS#*\?}"
+          for prefix in runtime signals trades; do
+            azcopy sync "${base}/${prefix}?${qs}" "./${prefix}" \
+              --recursive --delete-destination=false || true
+          done
+      - name: Commit if changed
+        run: |
+          git config user.name "journal-bot"
+          git config user.email "journal-bot@users.noreply.github.com"
+          git add -A
+          git diff --cached --quiet && { echo "no changes"; exit 0; }
+          git commit -m "journal sync $(date -u +%FT%TMZ)"
+          git push
