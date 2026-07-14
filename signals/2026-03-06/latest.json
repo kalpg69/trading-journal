@@ -1,0 +1,36 @@
+{
+  "date": "2026-03-06",
+  "atm": 24650,
+  "nifty_first_open": 24656.4,
+  "expiry": "2026-03-10",
+  "selected_tf": 1,
+  "candle_mode": "HA",
+  "selected_ce_strike": 24650,
+  "selected_pe_strike": 24650,
+  "signal_type": "BOTH",
+  "start_trade_time": "09:45",
+  "end_trade_time": "15:00",
+  "updated_at_ist": "2026-03-06T15:31:05.083188+05:30",
+  "signals": {
+    "45515": {
+      "tf_min": 1,
+      "time_ist": "2026-03-06T15:30:00+05:30",
+      "strike": 24650,
+      "cp": "CE",
+      "st_21_3": "BEAR",
+      "st_14_2": "BEAR",
+      "st_7_1": "BEAR",
+      "signal": "ALL_BEAR"
+    },
+    "45516": {
+      "tf_min": 1,
+      "time_ist": "2026-03-06T15:29:00+05:30",
+      "strike": 24650,
+      "cp": "PE",
+      "st_21_3": "BEAR",
+      "st_14_2": "BEAR",
+      "st_7_1": "BEAR",
+      "signal": "ALL_BEAR"
+    }
+  }
+}

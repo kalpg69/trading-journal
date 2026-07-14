@@ -1,0 +1,73 @@
+{
+  "date": "2026-03-17",
+  "atm": 23450,
+  "nifty_first_open": 23465.25,
+  "expiry": "2026-03-17",
+  "signal_tfs": [
+    1,
+    5,
+    10
+  ],
+  "selected_tf": 1,
+  "candle_mode": "HA",
+  "selected_ce_strike": 23450,
+  "selected_pe_strike": 23450,
+  "signal_type": "BOTH",
+  "start_trade_time": "09:15",
+  "end_trade_time": "15:30",
+  "updated_at_ist": "2026-03-17T15:31:05.057037+05:30",
+  "signals": {
+    "57743": {
+      "tf_min": 1,
+      "time_ist": "2026-03-17T15:30:00+05:30",
+      "strike": 23450,
+      "cp": "CE",
+      "signal": "MIXED",
+      "mtf_ready": true,
+      "st_21_3": "BULL",
+      "st_14_2": "BEAR",
+      "st_7_1": "BEAR",
+      "signal_tfs": [
+        1,
+        5,
+        10
+      ],
+      "tf_signals": {
+        "1": "MIXED",
+        "5": "MIXED",
+        "10": "ALL_BULL"
+      },
+      "tf_times": {
+        "1": "2026-03-17T15:30:00+05:30",
+        "5": "2026-03-17T15:25:00+05:30",
+        "10": "2026-03-17T15:15:00+05:30"
+      }
+    },
+    "57744": {
+      "tf_min": 1,
+      "time_ist": "2026-03-17T15:30:00+05:30",
+      "strike": 23450,
+      "cp": "PE",
+      "signal": "ALL_BEAR",
+      "mtf_ready": true,
+      "st_21_3": "BEAR",
+      "st_14_2": "BEAR",
+      "st_7_1": "BEAR",
+      "signal_tfs": [
+        1,
+        5,
+        10
+      ],
+      "tf_signals": {
+        "1": "ALL_BEAR",
+        "5": "ALL_BEAR",
+        "10": "ALL_BEAR"
+      },
+      "tf_times": {
+        "1": "2026-03-17T15:30:00+05:30",
+        "5": "2026-03-17T15:25:00+05:30",
+        "10": "2026-03-17T15:15:00+05:30"
+      }
+    }
+  }
+}

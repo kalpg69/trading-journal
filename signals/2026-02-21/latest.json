@@ -1,0 +1,17 @@
+{
+  "date": "2026-02-21",
+  "atm": 25400,
+  "nifty_first_open": 25406.35,
+  "expiry": "2026-02-24",
+  "selected_tf": 1,
+  "selected_ce_strike": 25450,
+  "selected_pe_strike": 25350,
+  "signal_type": "BOTH",
+  "start_trade_time": "09:45",
+  "end_trade_time": "23:30",
+  "updated_at_ist": "2026-02-21T22:23:05.059035+05:30",
+  "signals": {
+    "64850": {},
+    "64844": {}
+  }
+}
