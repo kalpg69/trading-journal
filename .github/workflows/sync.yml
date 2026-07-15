@@ -17,9 +17,10 @@ jobs:
         run: |
           base="${SAS%%\?*}"; qs="${SAS#*\?}"
           for prefix in runtime signals trades; do
-            azcopy sync "${base}/${prefix}?${qs}" "./${prefix}" \
-              --recursive --delete-destination=false || true
+            azcopy copy "${base}/${prefix}?${qs}" "." \
+              --recursive --overwrite=true || true
           done
+          test -f runtime/current-state.json || { echo "::error::sync produced no runtime state — check SAS permissions/expiry"; exit 1; }
       - name: Commit if changed
         run: |
           git config user.name "journal-bot"
