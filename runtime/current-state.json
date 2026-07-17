@@ -2325,13 +2325,6 @@
     "57346": {
       "history": [
         {
-          "Datetime": "2026-07-17T10:30:00+05:30",
-          "Open": 197.0,
-          "High": 197.7,
-          "Low": 190.85,
-          "Close": 195.05
-        },
-        {
           "Datetime": "2026-07-17T10:31:00+05:30",
           "Open": 195.15,
           "High": 199.95,
@@ -4423,18 +4416,18 @@
           "High": 244.65,
           "Low": 237.75,
           "Close": 241.75
+        },
+        {
+          "Datetime": "2026-07-17T15:30:00+05:30",
+          "Open": 250.0,
+          "High": 250.0,
+          "Low": 250.0,
+          "Close": 250.0
         }
       ]
     },
     "57347": {
       "history": [
-        {
-          "Datetime": "2026-07-17T10:30:00+05:30",
-          "Open": 93.65,
-          "High": 94.65,
-          "Low": 93.0,
-          "Close": 93.25
-        },
         {
           "Datetime": "2026-07-17T10:31:00+05:30",
           "Open": 93.25,
@@ -6527,18 +6520,25 @@
           "High": 64.0,
           "Low": 59.9,
           "Close": 59.9
+        },
+        {
+          "Datetime": "2026-07-17T15:30:00+05:30",
+          "Open": 60.6,
+          "High": 60.6,
+          "Low": 60.6,
+          "Close": 60.6
         }
       ]
     }
   },
   "last_emitted": {
-    "57346": "2026-07-17T15:29:00+05:30",
-    "57347": "2026-07-17T15:29:00+05:30"
+    "57346": "2026-07-17T15:30:00+05:30",
+    "57347": "2026-07-17T15:30:00+05:30"
   },
   "latest_signals": {
     "57346": {
       "tf_min": 1,
-      "time_ist": "2026-07-17T15:29:00+05:30",
+      "time_ist": "2026-07-17T15:30:00+05:30",
       "strike": 24150,
       "cp": "CE",
       "st_21_3": "BULL",
@@ -6548,7 +6548,7 @@
       "adx_enabled": false,
       "adx_period": 14,
       "adx_candle_mode": "HA",
-      "adx_value": 31.744461089757124,
+      "adx_value": 34.17015324680018,
       "adx_ready": true,
       "adx_entry_threshold": 20.0,
       "adx_exit_threshold": 15.0,
@@ -6558,7 +6558,7 @@
       "adx_trend_pass": true,
       "adx_entry_pass": true,
       "adx_force_exit": false,
-      "option_price": 241.75,
+      "option_price": 250.0,
       "premium_gate_enabled": false,
       "premium_min_price": 150.0,
       "premium_max_price": 250.0,
@@ -6569,7 +6569,7 @@
     },
     "57347": {
       "tf_min": 1,
-      "time_ist": "2026-07-17T15:29:00+05:30",
+      "time_ist": "2026-07-17T15:30:00+05:30",
       "strike": 24150,
       "cp": "PE",
       "st_21_3": "BEAR",
@@ -6579,7 +6579,7 @@
       "adx_enabled": false,
       "adx_period": 14,
       "adx_candle_mode": "HA",
-      "adx_value": 27.62529631410289,
+      "adx_value": 29.05378846407632,
       "adx_ready": true,
       "adx_entry_threshold": 20.0,
       "adx_exit_threshold": 15.0,
@@ -6589,7 +6589,7 @@
       "adx_trend_pass": true,
       "adx_entry_pass": true,
       "adx_force_exit": false,
-      "option_price": 59.9,
+      "option_price": 60.6,
       "premium_gate_enabled": false,
       "premium_min_price": 150.0,
       "premium_max_price": 250.0,
@@ -6603,10 +6603,10 @@
     "CE": {
       "anchor_strike": 24150,
       "anchor_token": "57346",
-      "anchor_price": 241.75,
+      "anchor_price": 250.0,
       "strike": 24150,
       "token": "57346",
-      "price": 241.75,
+      "price": 250.0,
       "shifted": false,
       "shift_steps": 0,
       "selection_mode": "SELECTED",
@@ -6615,10 +6615,10 @@
     "PE": {
       "anchor_strike": 24150,
       "anchor_token": "57347",
-      "anchor_price": 59.9,
+      "anchor_price": 60.6,
       "strike": 24150,
       "token": "57347",
-      "price": 59.9,
+      "price": 60.6,
       "shifted": false,
       "shift_steps": 0,
       "selection_mode": "SELECTED",
@@ -6678,7 +6678,7 @@
     ]
   },
   "nlb_last_error": "entry blocked: existing open position on this option side",
-  "updated_at_ist": "2026-07-17T15:30:05.076289+05:30",
+  "updated_at_ist": "2026-07-17T15:34:05.077744+05:30",
   "cooldown_bars": 3,
   "min_hold_bars": 3,
   "auto_shifted_this_tick": {
@@ -33787,6 +33787,6 @@
     "missing_trade_id_sides": [],
     "incomplete_closed_trade_ids": [],
     "stale_exit_pending_trade_ids": [],
-    "at_ist": "2026-07-17T15:30:05.076289+05:30"
+    "at_ist": "2026-07-17T17:19:05.058057+05:30"
   }
 }
