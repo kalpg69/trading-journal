@@ -2525,279 +2525,6 @@
     "61671": {
       "history": [
         {
-          "Datetime": "2026-08-19T12:50:00+05:30",
-          "Open": 63.15,
-          "High": 64.1,
-          "Low": 63.0,
-          "Close": 64.1
-        },
-        {
-          "Datetime": "2026-08-19T12:51:00+05:30",
-          "Open": 64.05,
-          "High": 64.05,
-          "Low": 62.7,
-          "Close": 63.4
-        },
-        {
-          "Datetime": "2026-08-19T12:52:00+05:30",
-          "Open": 63.4,
-          "High": 64.1,
-          "Low": 63.2,
-          "Close": 63.4
-        },
-        {
-          "Datetime": "2026-08-19T12:53:00+05:30",
-          "Open": 63.6,
-          "High": 64.25,
-          "Low": 63.4,
-          "Close": 64.25
-        },
-        {
-          "Datetime": "2026-08-19T12:54:00+05:30",
-          "Open": 64.25,
-          "High": 64.25,
-          "Low": 63.7,
-          "Close": 64.2
-        },
-        {
-          "Datetime": "2026-08-19T12:55:00+05:30",
-          "Open": 63.9,
-          "High": 64.25,
-          "Low": 63.25,
-          "Close": 63.25
-        },
-        {
-          "Datetime": "2026-08-19T12:56:00+05:30",
-          "Open": 63.4,
-          "High": 63.4,
-          "Low": 62.2,
-          "Close": 62.55
-        },
-        {
-          "Datetime": "2026-08-19T12:57:00+05:30",
-          "Open": 62.9,
-          "High": 63.5,
-          "Low": 62.75,
-          "Close": 63.3
-        },
-        {
-          "Datetime": "2026-08-19T12:58:00+05:30",
-          "Open": 63.3,
-          "High": 63.3,
-          "Low": 62.3,
-          "Close": 62.5
-        },
-        {
-          "Datetime": "2026-08-19T12:59:00+05:30",
-          "Open": 62.5,
-          "High": 62.95,
-          "Low": 62.4,
-          "Close": 62.7
-        },
-        {
-          "Datetime": "2026-08-19T13:00:00+05:30",
-          "Open": 62.85,
-          "High": 63.1,
-          "Low": 62.4,
-          "Close": 62.85
-        },
-        {
-          "Datetime": "2026-08-19T13:01:00+05:30",
-          "Open": 62.75,
-          "High": 64.0,
-          "Low": 62.7,
-          "Close": 63.8
-        },
-        {
-          "Datetime": "2026-08-19T13:02:00+05:30",
-          "Open": 63.75,
-          "High": 64.4,
-          "Low": 63.6,
-          "Close": 63.85
-        },
-        {
-          "Datetime": "2026-08-19T13:03:00+05:30",
-          "Open": 63.8,
-          "High": 65.55,
-          "Low": 63.8,
-          "Close": 65.45
-        },
-        {
-          "Datetime": "2026-08-19T13:04:00+05:30",
-          "Open": 65.6,
-          "High": 66.25,
-          "Low": 65.1,
-          "Close": 65.25
-        },
-        {
-          "Datetime": "2026-08-19T13:05:00+05:30",
-          "Open": 65.15,
-          "High": 65.25,
-          "Low": 63.75,
-          "Close": 63.75
-        },
-        {
-          "Datetime": "2026-08-19T13:06:00+05:30",
-          "Open": 63.85,
-          "High": 65.1,
-          "Low": 63.65,
-          "Close": 64.35
-        },
-        {
-          "Datetime": "2026-08-19T13:07:00+05:30",
-          "Open": 64.1,
-          "High": 64.9,
-          "Low": 64.0,
-          "Close": 64.35
-        },
-        {
-          "Datetime": "2026-08-19T13:08:00+05:30",
-          "Open": 64.45,
-          "High": 65.15,
-          "Low": 64.3,
-          "Close": 65.0
-        },
-        {
-          "Datetime": "2026-08-19T13:09:00+05:30",
-          "Open": 65.05,
-          "High": 66.0,
-          "Low": 64.85,
-          "Close": 65.5
-        },
-        {
-          "Datetime": "2026-08-19T13:10:00+05:30",
-          "Open": 65.45,
-          "High": 65.45,
-          "Low": 64.5,
-          "Close": 65.05
-        },
-        {
-          "Datetime": "2026-08-19T13:11:00+05:30",
-          "Open": 65.45,
-          "High": 65.45,
-          "Low": 64.5,
-          "Close": 64.65
-        },
-        {
-          "Datetime": "2026-08-19T13:12:00+05:30",
-          "Open": 64.6,
-          "High": 64.9,
-          "Low": 62.85,
-          "Close": 63.15
-        },
-        {
-          "Datetime": "2026-08-19T13:13:00+05:30",
-          "Open": 63.15,
-          "High": 63.15,
-          "Low": 62.1,
-          "Close": 62.2
-        },
-        {
-          "Datetime": "2026-08-19T13:14:00+05:30",
-          "Open": 62.6,
-          "High": 62.75,
-          "Low": 62.0,
-          "Close": 62.3
-        },
-        {
-          "Datetime": "2026-08-19T13:15:00+05:30",
-          "Open": 62.15,
-          "High": 62.65,
-          "Low": 61.7,
-          "Close": 61.7
-        },
-        {
-          "Datetime": "2026-08-19T13:16:00+05:30",
-          "Open": 61.6,
-          "High": 62.45,
-          "Low": 61.0,
-          "Close": 61.35
-        },
-        {
-          "Datetime": "2026-08-19T13:17:00+05:30",
-          "Open": 61.25,
-          "High": 61.85,
-          "Low": 60.5,
-          "Close": 61.65
-        },
-        {
-          "Datetime": "2026-08-19T13:18:00+05:30",
-          "Open": 61.6,
-          "High": 63.4,
-          "Low": 61.6,
-          "Close": 62.8
-        },
-        {
-          "Datetime": "2026-08-19T13:19:00+05:30",
-          "Open": 62.75,
-          "High": 62.9,
-          "Low": 61.75,
-          "Close": 61.8
-        },
-        {
-          "Datetime": "2026-08-19T13:20:00+05:30",
-          "Open": 61.5,
-          "High": 61.65,
-          "Low": 60.85,
-          "Close": 61.65
-        },
-        {
-          "Datetime": "2026-08-19T13:21:00+05:30",
-          "Open": 61.2,
-          "High": 62.55,
-          "Low": 61.2,
-          "Close": 61.6
-        },
-        {
-          "Datetime": "2026-08-19T13:22:00+05:30",
-          "Open": 61.5,
-          "High": 62.15,
-          "Low": 61.45,
-          "Close": 61.75
-        },
-        {
-          "Datetime": "2026-08-19T13:23:00+05:30",
-          "Open": 61.8,
-          "High": 61.8,
-          "Low": 61.3,
-          "Close": 61.6
-        },
-        {
-          "Datetime": "2026-08-19T13:24:00+05:30",
-          "Open": 61.65,
-          "High": 62.25,
-          "Low": 61.4,
-          "Close": 61.65
-        },
-        {
-          "Datetime": "2026-08-19T13:25:00+05:30",
-          "Open": 61.6,
-          "High": 62.35,
-          "Low": 61.35,
-          "Close": 61.95
-        },
-        {
-          "Datetime": "2026-08-19T13:26:00+05:30",
-          "Open": 61.95,
-          "High": 62.1,
-          "Low": 61.65,
-          "Close": 61.7
-        },
-        {
-          "Datetime": "2026-08-19T13:27:00+05:30",
-          "Open": 61.6,
-          "High": 62.65,
-          "Low": 61.5,
-          "Close": 62.1
-        },
-        {
-          "Datetime": "2026-08-19T13:28:00+05:30",
-          "Open": 62.2,
-          "High": 62.45,
-          "Low": 62.05,
-          "Close": 62.15
-        },
-        {
           "Datetime": "2026-08-19T13:29:00+05:30",
           "Open": 62.1,
           "High": 62.15,
@@ -4623,284 +4350,284 @@
           "High": 101.15,
           "Low": 98.25,
           "Close": 99.65
+        },
+        {
+          "Datetime": "2026-08-20T11:24:00+05:30",
+          "Open": 99.1,
+          "High": 100.05,
+          "Low": 98.75,
+          "Close": 100.05
+        },
+        {
+          "Datetime": "2026-08-20T11:25:00+05:30",
+          "Open": 99.85,
+          "High": 100.2,
+          "Low": 99.0,
+          "Close": 99.65
+        },
+        {
+          "Datetime": "2026-08-20T11:26:00+05:30",
+          "Open": 99.95,
+          "High": 100.45,
+          "Low": 98.75,
+          "Close": 98.85
+        },
+        {
+          "Datetime": "2026-08-20T11:27:00+05:30",
+          "Open": 98.85,
+          "High": 101.8,
+          "Low": 98.85,
+          "Close": 101.45
+        },
+        {
+          "Datetime": "2026-08-20T11:28:00+05:30",
+          "Open": 101.55,
+          "High": 101.55,
+          "Low": 100.25,
+          "Close": 101.35
+        },
+        {
+          "Datetime": "2026-08-20T11:29:00+05:30",
+          "Open": 101.45,
+          "High": 102.5,
+          "Low": 100.85,
+          "Close": 102.35
+        },
+        {
+          "Datetime": "2026-08-20T11:30:00+05:30",
+          "Open": 102.3,
+          "High": 105.65,
+          "Low": 102.15,
+          "Close": 105.1
+        },
+        {
+          "Datetime": "2026-08-20T11:31:00+05:30",
+          "Open": 105.35,
+          "High": 108.35,
+          "Low": 104.15,
+          "Close": 107.75
+        },
+        {
+          "Datetime": "2026-08-20T11:32:00+05:30",
+          "Open": 107.75,
+          "High": 111.9,
+          "Low": 107.45,
+          "Close": 111.55
+        },
+        {
+          "Datetime": "2026-08-20T11:33:00+05:30",
+          "Open": 111.7,
+          "High": 112.75,
+          "Low": 109.05,
+          "Close": 110.2
+        },
+        {
+          "Datetime": "2026-08-20T11:34:00+05:30",
+          "Open": 110.1,
+          "High": 110.75,
+          "Low": 108.45,
+          "Close": 109.5
+        },
+        {
+          "Datetime": "2026-08-20T11:35:00+05:30",
+          "Open": 109.75,
+          "High": 111.9,
+          "Low": 109.75,
+          "Close": 110.25
+        },
+        {
+          "Datetime": "2026-08-20T11:36:00+05:30",
+          "Open": 110.2,
+          "High": 111.1,
+          "Low": 109.65,
+          "Close": 110.6
+        },
+        {
+          "Datetime": "2026-08-20T11:37:00+05:30",
+          "Open": 110.55,
+          "High": 110.9,
+          "Low": 109.35,
+          "Close": 109.9
+        },
+        {
+          "Datetime": "2026-08-20T11:38:00+05:30",
+          "Open": 109.85,
+          "High": 110.5,
+          "Low": 108.4,
+          "Close": 108.6
+        },
+        {
+          "Datetime": "2026-08-20T11:39:00+05:30",
+          "Open": 108.45,
+          "High": 110.9,
+          "Low": 108.45,
+          "Close": 109.35
+        },
+        {
+          "Datetime": "2026-08-20T11:40:00+05:30",
+          "Open": 109.55,
+          "High": 110.35,
+          "Low": 108.55,
+          "Close": 108.75
+        },
+        {
+          "Datetime": "2026-08-20T11:41:00+05:30",
+          "Open": 109.1,
+          "High": 109.8,
+          "Low": 107.7,
+          "Close": 109.2
+        },
+        {
+          "Datetime": "2026-08-20T11:42:00+05:30",
+          "Open": 109.05,
+          "High": 110.35,
+          "Low": 109.05,
+          "Close": 109.9
+        },
+        {
+          "Datetime": "2026-08-20T11:43:00+05:30",
+          "Open": 110.15,
+          "High": 110.75,
+          "Low": 109.55,
+          "Close": 110.25
+        },
+        {
+          "Datetime": "2026-08-20T11:44:00+05:30",
+          "Open": 110.15,
+          "High": 110.45,
+          "Low": 109.25,
+          "Close": 109.5
+        },
+        {
+          "Datetime": "2026-08-20T11:45:00+05:30",
+          "Open": 109.7,
+          "High": 111.0,
+          "Low": 109.1,
+          "Close": 110.6
+        },
+        {
+          "Datetime": "2026-08-20T11:46:00+05:30",
+          "Open": 110.3,
+          "High": 113.2,
+          "Low": 110.0,
+          "Close": 112.7
+        },
+        {
+          "Datetime": "2026-08-20T11:47:00+05:30",
+          "Open": 112.85,
+          "High": 113.15,
+          "Low": 111.65,
+          "Close": 112.1
+        },
+        {
+          "Datetime": "2026-08-20T11:48:00+05:30",
+          "Open": 112.35,
+          "High": 112.35,
+          "Low": 109.85,
+          "Close": 110.1
+        },
+        {
+          "Datetime": "2026-08-20T11:49:00+05:30",
+          "Open": 110.15,
+          "High": 110.5,
+          "Low": 109.35,
+          "Close": 109.8
+        },
+        {
+          "Datetime": "2026-08-20T11:50:00+05:30",
+          "Open": 109.55,
+          "High": 110.7,
+          "Low": 108.6,
+          "Close": 108.6
+        },
+        {
+          "Datetime": "2026-08-20T11:51:00+05:30",
+          "Open": 108.9,
+          "High": 109.9,
+          "Low": 108.6,
+          "Close": 109.55
+        },
+        {
+          "Datetime": "2026-08-20T11:52:00+05:30",
+          "Open": 109.6,
+          "High": 111.45,
+          "Low": 108.75,
+          "Close": 108.75
+        },
+        {
+          "Datetime": "2026-08-20T11:53:00+05:30",
+          "Open": 109.1,
+          "High": 110.3,
+          "Low": 108.6,
+          "Close": 110.0
+        },
+        {
+          "Datetime": "2026-08-20T11:54:00+05:30",
+          "Open": 109.9,
+          "High": 110.7,
+          "Low": 109.5,
+          "Close": 109.8
+        },
+        {
+          "Datetime": "2026-08-20T11:55:00+05:30",
+          "Open": 109.9,
+          "High": 111.0,
+          "Low": 108.75,
+          "Close": 110.9
+        },
+        {
+          "Datetime": "2026-08-20T11:56:00+05:30",
+          "Open": 111.0,
+          "High": 115.0,
+          "Low": 111.0,
+          "Close": 114.45
+        },
+        {
+          "Datetime": "2026-08-20T11:57:00+05:30",
+          "Open": 114.0,
+          "High": 114.25,
+          "Low": 110.4,
+          "Close": 111.0
+        },
+        {
+          "Datetime": "2026-08-20T11:58:00+05:30",
+          "Open": 111.0,
+          "High": 112.6,
+          "Low": 109.6,
+          "Close": 112.6
+        },
+        {
+          "Datetime": "2026-08-20T11:59:00+05:30",
+          "Open": 112.95,
+          "High": 113.9,
+          "Low": 112.45,
+          "Close": 113.5
+        },
+        {
+          "Datetime": "2026-08-20T12:00:00+05:30",
+          "Open": 113.2,
+          "High": 114.0,
+          "Low": 112.85,
+          "Close": 113.7
+        },
+        {
+          "Datetime": "2026-08-20T12:01:00+05:30",
+          "Open": 113.4,
+          "High": 113.7,
+          "Low": 110.5,
+          "Close": 113.0
+        },
+        {
+          "Datetime": "2026-08-20T12:02:00+05:30",
+          "Open": 112.9,
+          "High": 113.25,
+          "Low": 111.6,
+          "Close": 111.9
         }
       ]
     },
     "61684": {
       "history": [
-        {
-          "Datetime": "2026-08-19T12:50:00+05:30",
-          "Open": 204.25,
-          "High": 205.05,
-          "Low": 201.25,
-          "Close": 201.25
-        },
-        {
-          "Datetime": "2026-08-19T12:51:00+05:30",
-          "Open": 201.65,
-          "High": 206.0,
-          "Low": 201.65,
-          "Close": 202.95
-        },
-        {
-          "Datetime": "2026-08-19T12:52:00+05:30",
-          "Open": 204.2,
-          "High": 204.2,
-          "Low": 201.45,
-          "Close": 203.0
-        },
-        {
-          "Datetime": "2026-08-19T12:53:00+05:30",
-          "Open": 203.15,
-          "High": 203.15,
-          "Low": 200.8,
-          "Close": 201.05
-        },
-        {
-          "Datetime": "2026-08-19T12:54:00+05:30",
-          "Open": 200.5,
-          "High": 203.0,
-          "Low": 200.5,
-          "Close": 200.85
-        },
-        {
-          "Datetime": "2026-08-19T12:55:00+05:30",
-          "Open": 201.5,
-          "High": 203.4,
-          "Low": 200.8,
-          "Close": 203.0
-        },
-        {
-          "Datetime": "2026-08-19T12:56:00+05:30",
-          "Open": 203.6,
-          "High": 207.65,
-          "Low": 203.4,
-          "Close": 207.15
-        },
-        {
-          "Datetime": "2026-08-19T12:57:00+05:30",
-          "Open": 205.6,
-          "High": 206.0,
-          "Low": 203.75,
-          "Close": 203.75
-        },
-        {
-          "Datetime": "2026-08-19T12:58:00+05:30",
-          "Open": 204.9,
-          "High": 207.35,
-          "Low": 204.9,
-          "Close": 206.4
-        },
-        {
-          "Datetime": "2026-08-19T12:59:00+05:30",
-          "Open": 205.8,
-          "High": 206.2,
-          "Low": 204.25,
-          "Close": 205.55
-        },
-        {
-          "Datetime": "2026-08-19T13:00:00+05:30",
-          "Open": 205.0,
-          "High": 205.5,
-          "Low": 204.25,
-          "Close": 204.7
-        },
-        {
-          "Datetime": "2026-08-19T13:01:00+05:30",
-          "Open": 204.55,
-          "High": 204.55,
-          "Low": 201.15,
-          "Close": 202.55
-        },
-        {
-          "Datetime": "2026-08-19T13:02:00+05:30",
-          "Open": 201.1,
-          "High": 202.45,
-          "Low": 200.6,
-          "Close": 202.45
-        },
-        {
-          "Datetime": "2026-08-19T13:03:00+05:30",
-          "Open": 202.25,
-          "High": 202.25,
-          "Low": 197.3,
-          "Close": 197.5
-        },
-        {
-          "Datetime": "2026-08-19T13:04:00+05:30",
-          "Open": 197.05,
-          "High": 198.7,
-          "Low": 195.85,
-          "Close": 198.7
-        },
-        {
-          "Datetime": "2026-08-19T13:05:00+05:30",
-          "Open": 198.55,
-          "High": 202.0,
-          "Low": 198.55,
-          "Close": 201.7
-        },
-        {
-          "Datetime": "2026-08-19T13:06:00+05:30",
-          "Open": 201.8,
-          "High": 202.0,
-          "Low": 198.25,
-          "Close": 200.8
-        },
-        {
-          "Datetime": "2026-08-19T13:07:00+05:30",
-          "Open": 201.45,
-          "High": 201.75,
-          "Low": 199.4,
-          "Close": 200.55
-        },
-        {
-          "Datetime": "2026-08-19T13:08:00+05:30",
-          "Open": 200.4,
-          "High": 200.45,
-          "Low": 198.5,
-          "Close": 198.5
-        },
-        {
-          "Datetime": "2026-08-19T13:09:00+05:30",
-          "Open": 198.0,
-          "High": 200.0,
-          "Low": 196.75,
-          "Close": 198.4
-        },
-        {
-          "Datetime": "2026-08-19T13:10:00+05:30",
-          "Open": 198.55,
-          "High": 201.5,
-          "Low": 198.25,
-          "Close": 198.45
-        },
-        {
-          "Datetime": "2026-08-19T13:11:00+05:30",
-          "Open": 198.2,
-          "High": 200.4,
-          "Low": 198.2,
-          "Close": 200.4
-        },
-        {
-          "Datetime": "2026-08-19T13:12:00+05:30",
-          "Open": 200.45,
-          "High": 204.9,
-          "Low": 199.45,
-          "Close": 204.3
-        },
-        {
-          "Datetime": "2026-08-19T13:13:00+05:30",
-          "Open": 203.65,
-          "High": 206.9,
-          "Low": 203.65,
-          "Close": 206.15
-        },
-        {
-          "Datetime": "2026-08-19T13:14:00+05:30",
-          "Open": 206.0,
-          "High": 207.85,
-          "Low": 204.9,
-          "Close": 206.85
-        },
-        {
-          "Datetime": "2026-08-19T13:15:00+05:30",
-          "Open": 206.9,
-          "High": 210.5,
-          "Low": 206.5,
-          "Close": 210.5
-        },
-        {
-          "Datetime": "2026-08-19T13:16:00+05:30",
-          "Open": 210.75,
-          "High": 212.0,
-          "Low": 208.3,
-          "Close": 210.85
-        },
-        {
-          "Datetime": "2026-08-19T13:17:00+05:30",
-          "Open": 211.2,
-          "High": 213.0,
-          "Low": 209.7,
-          "Close": 209.75
-        },
-        {
-          "Datetime": "2026-08-19T13:18:00+05:30",
-          "Open": 210.2,
-          "High": 210.2,
-          "Low": 204.75,
-          "Close": 205.2
-        },
-        {
-          "Datetime": "2026-08-19T13:19:00+05:30",
-          "Open": 205.85,
-          "High": 208.5,
-          "Low": 204.95,
-          "Close": 208.5
-        },
-        {
-          "Datetime": "2026-08-19T13:20:00+05:30",
-          "Open": 209.5,
-          "High": 212.65,
-          "Low": 209.5,
-          "Close": 210.35
-        },
-        {
-          "Datetime": "2026-08-19T13:21:00+05:30",
-          "Open": 210.25,
-          "High": 211.2,
-          "Low": 207.0,
-          "Close": 209.8
-        },
-        {
-          "Datetime": "2026-08-19T13:22:00+05:30",
-          "Open": 209.8,
-          "High": 210.5,
-          "Low": 208.2,
-          "Close": 210.3
-        },
-        {
-          "Datetime": "2026-08-19T13:23:00+05:30",
-          "Open": 210.0,
-          "High": 212.0,
-          "Low": 209.3,
-          "Close": 209.7
-        },
-        {
-          "Datetime": "2026-08-19T13:24:00+05:30",
-          "Open": 209.8,
-          "High": 210.1,
-          "Low": 208.3,
-          "Close": 209.8
-        },
-        {
-          "Datetime": "2026-08-19T13:25:00+05:30",
-          "Open": 209.4,
-          "High": 210.6,
-          "Low": 207.3,
-          "Close": 208.15
-        },
-        {
-          "Datetime": "2026-08-19T13:26:00+05:30",
-          "Open": 208.5,
-          "High": 209.15,
-          "Low": 208.15,
-          "Close": 209.15
-        },
-        {
-          "Datetime": "2026-08-19T13:27:00+05:30",
-          "Open": 209.75,
-          "High": 209.75,
-          "Low": 206.05,
-          "Close": 207.9
-        },
-        {
-          "Datetime": "2026-08-19T13:28:00+05:30",
-          "Open": 207.65,
-          "High": 207.7,
-          "Low": 206.5,
-          "Close": 207.0
-        },
         {
           "Datetime": "2026-08-19T13:29:00+05:30",
           "Open": 207.05,
@@ -6727,52 +6454,293 @@
           "High": 92.9,
           "Low": 90.15,
           "Close": 91.85
+        },
+        {
+          "Datetime": "2026-08-20T11:24:00+05:30",
+          "Open": 92.25,
+          "High": 92.4,
+          "Low": 91.1,
+          "Close": 91.1
+        },
+        {
+          "Datetime": "2026-08-20T11:25:00+05:30",
+          "Open": 91.35,
+          "High": 92.35,
+          "Low": 91.0,
+          "Close": 91.75
+        },
+        {
+          "Datetime": "2026-08-20T11:26:00+05:30",
+          "Open": 91.55,
+          "High": 92.3,
+          "Low": 90.85,
+          "Close": 91.65
+        },
+        {
+          "Datetime": "2026-08-20T11:27:00+05:30",
+          "Open": 91.85,
+          "High": 91.9,
+          "Low": 89.15,
+          "Close": 89.35
+        },
+        {
+          "Datetime": "2026-08-20T11:28:00+05:30",
+          "Open": 89.3,
+          "High": 90.7,
+          "Low": 89.3,
+          "Close": 89.4
+        },
+        {
+          "Datetime": "2026-08-20T11:29:00+05:30",
+          "Open": 89.25,
+          "High": 89.9,
+          "Low": 88.1,
+          "Close": 88.5
+        },
+        {
+          "Datetime": "2026-08-20T11:30:00+05:30",
+          "Open": 88.85,
+          "High": 88.85,
+          "Low": 85.05,
+          "Close": 85.2
+        },
+        {
+          "Datetime": "2026-08-20T11:31:00+05:30",
+          "Open": 85.3,
+          "High": 86.2,
+          "Low": 82.75,
+          "Close": 83.2
+        },
+        {
+          "Datetime": "2026-08-20T11:32:00+05:30",
+          "Open": 83.35,
+          "High": 83.35,
+          "Low": 79.0,
+          "Close": 79.25
+        },
+        {
+          "Datetime": "2026-08-20T11:33:00+05:30",
+          "Open": 79.2,
+          "High": 81.15,
+          "Low": 78.0,
+          "Close": 80.8
+        },
+        {
+          "Datetime": "2026-08-20T11:34:00+05:30",
+          "Open": 80.85,
+          "High": 81.75,
+          "Low": 80.35,
+          "Close": 81.3
+        },
+        {
+          "Datetime": "2026-08-20T11:35:00+05:30",
+          "Open": 81.05,
+          "High": 81.05,
+          "Low": 79.25,
+          "Close": 80.65
+        },
+        {
+          "Datetime": "2026-08-20T11:36:00+05:30",
+          "Open": 80.45,
+          "High": 80.95,
+          "Low": 79.8,
+          "Close": 80.15
+        },
+        {
+          "Datetime": "2026-08-20T11:37:00+05:30",
+          "Open": 80.1,
+          "High": 80.8,
+          "Low": 79.8,
+          "Close": 80.5
+        },
+        {
+          "Datetime": "2026-08-20T11:38:00+05:30",
+          "Open": 80.65,
+          "High": 81.65,
+          "Low": 80.25,
+          "Close": 81.4
+        },
+        {
+          "Datetime": "2026-08-20T11:39:00+05:30",
+          "Open": 81.5,
+          "High": 81.65,
+          "Low": 80.0,
+          "Close": 80.75
+        },
+        {
+          "Datetime": "2026-08-20T11:40:00+05:30",
+          "Open": 80.95,
+          "High": 81.7,
+          "Low": 80.4,
+          "Close": 81.6
+        },
+        {
+          "Datetime": "2026-08-20T11:41:00+05:30",
+          "Open": 81.4,
+          "High": 82.2,
+          "Low": 80.85,
+          "Close": 81.45
+        },
+        {
+          "Datetime": "2026-08-20T11:42:00+05:30",
+          "Open": 81.2,
+          "High": 81.45,
+          "Low": 80.4,
+          "Close": 80.85
+        },
+        {
+          "Datetime": "2026-08-20T11:43:00+05:30",
+          "Open": 81.0,
+          "High": 81.0,
+          "Low": 80.05,
+          "Close": 80.25
+        },
+        {
+          "Datetime": "2026-08-20T11:44:00+05:30",
+          "Open": 80.25,
+          "High": 81.0,
+          "Low": 80.15,
+          "Close": 80.65
+        },
+        {
+          "Datetime": "2026-08-20T11:45:00+05:30",
+          "Open": 80.55,
+          "High": 80.95,
+          "Low": 79.45,
+          "Close": 79.75
+        },
+        {
+          "Datetime": "2026-08-20T11:46:00+05:30",
+          "Open": 80.0,
+          "High": 80.45,
+          "Low": 77.0,
+          "Close": 78.2
+        },
+        {
+          "Datetime": "2026-08-20T11:47:00+05:30",
+          "Open": 77.7,
+          "High": 78.95,
+          "Low": 77.6,
+          "Close": 78.5
+        },
+        {
+          "Datetime": "2026-08-20T11:48:00+05:30",
+          "Open": 78.75,
+          "High": 80.25,
+          "Low": 78.6,
+          "Close": 79.95
+        },
+        {
+          "Datetime": "2026-08-20T11:49:00+05:30",
+          "Open": 79.9,
+          "High": 80.4,
+          "Low": 79.5,
+          "Close": 80.05
+        },
+        {
+          "Datetime": "2026-08-20T11:50:00+05:30",
+          "Open": 80.15,
+          "High": 80.5,
+          "Low": 79.35,
+          "Close": 80.5
+        },
+        {
+          "Datetime": "2026-08-20T11:51:00+05:30",
+          "Open": 80.45,
+          "High": 80.8,
+          "Low": 79.65,
+          "Close": 80.0
+        },
+        {
+          "Datetime": "2026-08-20T11:52:00+05:30",
+          "Open": 80.0,
+          "High": 80.45,
+          "Low": 78.75,
+          "Close": 80.3
+        },
+        {
+          "Datetime": "2026-08-20T11:53:00+05:30",
+          "Open": 80.35,
+          "High": 80.6,
+          "Low": 79.4,
+          "Close": 79.7
+        },
+        {
+          "Datetime": "2026-08-20T11:54:00+05:30",
+          "Open": 79.6,
+          "High": 80.0,
+          "Low": 79.3,
+          "Close": 79.6
+        },
+        {
+          "Datetime": "2026-08-20T11:55:00+05:30",
+          "Open": 79.8,
+          "High": 80.5,
+          "Low": 79.0,
+          "Close": 79.2
+        },
+        {
+          "Datetime": "2026-08-20T11:56:00+05:30",
+          "Open": 79.05,
+          "High": 79.05,
+          "Low": 76.7,
+          "Close": 77.35
+        },
+        {
+          "Datetime": "2026-08-20T11:57:00+05:30",
+          "Open": 77.6,
+          "High": 79.55,
+          "Low": 77.45,
+          "Close": 79.25
+        },
+        {
+          "Datetime": "2026-08-20T11:58:00+05:30",
+          "Open": 79.2,
+          "High": 80.0,
+          "Low": 78.1,
+          "Close": 78.1
+        },
+        {
+          "Datetime": "2026-08-20T11:59:00+05:30",
+          "Open": 78.05,
+          "High": 78.5,
+          "Low": 77.6,
+          "Close": 77.7
+        },
+        {
+          "Datetime": "2026-08-20T12:00:00+05:30",
+          "Open": 77.8,
+          "High": 78.2,
+          "Low": 77.5,
+          "Close": 77.85
+        },
+        {
+          "Datetime": "2026-08-20T12:01:00+05:30",
+          "Open": 77.65,
+          "High": 79.75,
+          "Low": 77.6,
+          "Close": 78.25
+        },
+        {
+          "Datetime": "2026-08-20T12:02:00+05:30",
+          "Open": 78.2,
+          "High": 78.95,
+          "Low": 78.05,
+          "Close": 78.7
         }
       ]
     }
   },
   "last_emitted": {
-    "61671": "2026-08-20T11:23:00+05:30",
-    "61684": "2026-08-20T11:23:00+05:30"
+    "61671": "2026-08-20T12:02:00+05:30",
+    "61684": "2026-08-20T12:02:00+05:30"
   },
   "latest_signals": {
     "61671": {
       "tf_min": 1,
-      "time_ist": "2026-08-20T11:23:00+05:30",
+      "time_ist": "2026-08-20T12:02:00+05:30",
       "strike": 24250,
       "cp": "CE",
-      "st_21_3": "BEAR",
-      "st_14_2": "BEAR",
-      "st_7_1": "BEAR",
-      "signal": "ALL_BEAR",
-      "adx_enabled": false,
-      "adx_period": 14,
-      "adx_candle_mode": "HA",
-      "adx_value": 35.84610890415587,
-      "adx_ready": true,
-      "adx_entry_threshold": 20.0,
-      "adx_exit_threshold": 15.0,
-      "adx_trend_mode": "RISING",
-      "adx_trend_bars": 3,
-      "adx_trend_state": "RISING",
-      "adx_trend_pass": true,
-      "adx_entry_pass": true,
-      "adx_force_exit": false,
-      "option_price": 99.65,
-      "premium_gate_enabled": false,
-      "premium_min_price": 150.0,
-      "premium_max_price": 250.0,
-      "premium_price_ready": true,
-      "premium_entry_pass": true,
-      "trade_action": "NO TRADE",
-      "trade_reason": "supertrend bearish",
-      "candle_lag_seconds": 5.070922
-    },
-    "61684": {
-      "tf_min": 1,
-      "time_ist": "2026-08-20T11:23:00+05:30",
-      "strike": 24250,
-      "cp": "PE",
       "st_21_3": "BULL",
       "st_14_2": "BULL",
       "st_7_1": "BULL",
@@ -6780,35 +6748,67 @@
       "adx_enabled": false,
       "adx_period": 14,
       "adx_candle_mode": "HA",
-      "adx_value": 32.940894016781414,
+      "adx_value": 35.131383386796166,
       "adx_ready": true,
       "adx_entry_threshold": 20.0,
       "adx_exit_threshold": 15.0,
       "adx_trend_mode": "RISING",
       "adx_trend_bars": 3,
-      "adx_trend_state": "RISING",
-      "adx_trend_pass": true,
+      "adx_trend_state": "FALLING",
+      "adx_trend_pass": false,
       "adx_entry_pass": true,
       "adx_force_exit": false,
-      "option_price": 91.85,
+      "option_price": 111.9,
       "premium_gate_enabled": false,
       "premium_min_price": 150.0,
       "premium_max_price": 250.0,
       "premium_price_ready": true,
       "premium_entry_pass": true,
-      "trade_action": "ENTRY PE",
+      "trade_action": "ENTRY CE",
       "trade_reason": "supertrend entry",
-      "candle_lag_seconds": 5.070922
+      "candle_lag_seconds": 5.059166
+    },
+    "61684": {
+      "tf_min": 1,
+      "time_ist": "2026-08-20T12:02:00+05:30",
+      "strike": 24250,
+      "cp": "PE",
+      "st_21_3": "BEAR",
+      "st_14_2": "BEAR",
+      "st_7_1": "BEAR",
+      "signal": "ALL_BEAR",
+      "adx_enabled": false,
+      "adx_period": 14,
+      "adx_candle_mode": "HA",
+      "adx_value": 44.16471382668523,
+      "adx_ready": true,
+      "adx_entry_threshold": 20.0,
+      "adx_exit_threshold": 15.0,
+      "adx_trend_mode": "RISING",
+      "adx_trend_bars": 3,
+      "adx_trend_state": "FALLING",
+      "adx_trend_pass": false,
+      "adx_entry_pass": true,
+      "adx_force_exit": false,
+      "option_price": 78.7,
+      "premium_gate_enabled": false,
+      "premium_min_price": 150.0,
+      "premium_max_price": 250.0,
+      "premium_price_ready": true,
+      "premium_entry_pass": true,
+      "trade_action": "NO TRADE",
+      "trade_reason": "supertrend bearish",
+      "candle_lag_seconds": 5.059166
     }
   },
   "entry_targets": {
     "CE": {
       "anchor_strike": 24250,
       "anchor_token": "61671",
-      "anchor_price": 99.65,
+      "anchor_price": 111.9,
       "strike": 24250,
       "token": "61671",
-      "price": 99.65,
+      "price": 111.9,
       "shifted": false,
       "shift_steps": 0,
       "selection_mode": "SELECTED",
@@ -6817,10 +6817,10 @@
     "PE": {
       "anchor_strike": 24250,
       "anchor_token": "61684",
-      "anchor_price": 91.85,
+      "anchor_price": 78.7,
       "strike": 24250,
       "token": "61684",
-      "price": 91.85,
+      "price": 78.7,
       "shifted": false,
       "shift_steps": 0,
       "selection_mode": "SELECTED",
@@ -6829,26 +6829,26 @@
   },
   "window_minutes": 300,
   "nlb_open": {
-    "PE": {
-      "trade_id": "39af53a8-cead-4d58-a789-ac59bff2bdf1",
+    "CE": {
+      "trade_id": "4887fc10-4335-45c0-9776-a545ad9d035a",
       "status": "OPEN",
       "strike": 24250,
       "anchor_strike": 24250,
-      "opt": "PE",
-      "opened_at_ist": "2026-08-20T11:20:05.073509+05:30",
-      "entry_token": "61684",
-      "option_type": "PE",
+      "opt": "CE",
+      "opened_at_ist": "2026-08-20T11:57:05.059195+05:30",
+      "entry_token": "61671",
+      "option_type": "CE",
       "position_side": "LONG",
       "quantity": 65,
       "expiry": "2026-08-25",
       "nlb_expiry_token": "26804",
       "selected_timeframe_at_entry": 1,
-      "entry_signal_price": 90.05,
-      "entry_reference_price": 90.05,
+      "entry_signal_price": 114.45,
+      "entry_reference_price": 114.45,
       "entry_reference_price_source": "LATEST_COMPLETED_CLOSE",
       "entry_fill_price": null,
-      "entry_idempotency_key": "39af53a8-cead-4d58-a789-ac59bff2bdf1:ENTRY",
-      "entry_requested_at_ist": "2026-08-20T11:20:05.073509+05:30",
+      "entry_idempotency_key": "4887fc10-4335-45c0-9776-a545ad9d035a:ENTRY",
+      "entry_requested_at_ist": "2026-08-20T11:57:05.059195+05:30",
       "entry_execution_status": "ACKNOWLEDGED",
       "strategy_snapshot": {
         "selected_tf": 1,
@@ -6858,8 +6858,8 @@
       "selection_mode": "SELECTED",
       "premium_auto_shifted": false,
       "schema_version": 2,
-      "scripcode": "61684",
-      "entry_signal_at_ist": "2026-08-20T11:20:05.073509+05:30",
+      "scripcode": "61671",
+      "entry_signal_at_ist": "2026-08-20T11:57:05.059195+05:30",
       "entry_fill_at_ist": null,
       "entry_order_id": null,
       "excursion_entry_bar_excluded": true,
@@ -6877,39 +6877,39 @@
           "result": "Completed"
         },
         "response_text": null,
-        "idempotency_key": "39af53a8-cead-4d58-a789-ac59bff2bdf1:ENTRY",
+        "idempotency_key": "4887fc10-4335-45c0-9776-a545ad9d035a:ENTRY",
         "error": null,
         "error_type": null,
         "error_message": null
       },
       "entry_fill_quantity": null,
-      "mfe_price": 93.3,
-      "mae_price": 90.15,
-      "mfe_points": 3.25,
-      "mae_points": 0.0,
-      "mfe_pct": 3.6091060521932263,
-      "mae_pct": 0.0,
-      "max_unrealized_points": 3.25,
-      "min_unrealized_points": 0.10000000000000853,
-      "mfe_at_ist": "2026-08-20T11:21:00+05:30",
-      "mae_at_ist": "2026-08-20T11:23:00+05:30",
-      "excursion_last_bar_ist": "2026-08-20T11:23:00+05:30",
+      "mfe_price": 114.0,
+      "mae_price": 109.6,
+      "mfe_points": 0.0,
+      "mae_points": 4.8500000000000085,
+      "mfe_pct": 0.0,
+      "mae_pct": 4.23765836609874,
+      "max_unrealized_points": -0.45000000000000284,
+      "min_unrealized_points": -4.8500000000000085,
+      "mfe_at_ist": "2026-08-20T12:00:00+05:30",
+      "mae_at_ist": "2026-08-20T11:58:00+05:30",
+      "excursion_last_bar_ist": "2026-08-20T12:02:00+05:30",
       "excursion_source": "COMPLETED_1M_OHLC",
       "excursion_resolution_seconds": 60,
-      "excursion_baseline_price": 90.05,
+      "excursion_baseline_price": 114.45,
       "excursion_baseline_source": "LATEST_COMPLETED_CLOSE",
       "excursion_metrics_estimated": true,
       "excursion_data_gap": false,
-      "excursion_updated_at_ist": "2026-08-20T11:24:05.998727+05:30",
+      "excursion_updated_at_ist": "2026-08-20T12:03:05.994722+05:30",
       "shadow_trail": {
         "shadow_trail_version": 1,
         "shadow_trail_source": "COMPLETED_1M_OHLC",
         "shadow_trail_resolution_seconds": 60,
         "shadow_trail_entry_bar_excluded": true,
         "shadow_trail_intrabar_order": "PEAK_BEFORE_LOW_OPTIMISTIC",
-        "shadow_trail_baseline_price": 90.05,
-        "shadow_trail_bar_count": 3,
-        "shadow_trail_last_bar_ist": "2026-08-20T11:23:00+05:30",
+        "shadow_trail_baseline_price": 114.45,
+        "shadow_trail_bar_count": 5,
+        "shadow_trail_last_bar_ist": "2026-08-20T12:02:00+05:30",
         "shadow_trail_grid": [
           {
             "key": "arm8_pct20",
@@ -7188,9 +7188,11 @@
     }
   },
   "closed_trade_ids": [
+    "39af53a8-cead-4d58-a789-ac59bff2bdf1",
     "643e60dc-aed9-4aac-9f43-92ad48f41a73",
     "79e08d50-e18a-4e49-bbbd-9199bb76e4a9",
-    "97f221e2-60ec-442b-a991-e4e93d6a6ffa"
+    "97f221e2-60ec-442b-a991-e4e93d6a6ffa",
+    "d28111aa-d535-4318-bcbe-1e594719ca7b"
   ],
   "risk_guard_enabled": true,
   "trade_on_expiry_day": false,
@@ -7201,24 +7203,24 @@
     "halted": false,
     "halt_reason": null,
     "halted_at_ist": null,
-    "realized_points": -1.2499999999999858,
-    "unrealized_points": 1.7999999999999972,
-    "net_points": 0.5500000000000114,
+    "realized_points": -1.049999999999983,
+    "unrealized_points": -2.549999999999997,
+    "net_points": -3.59999999999998,
     "pnl_source": "CANDLE_ESTIMATES_ONLY",
     "pnl_data_quality": "ESTIMATED_ONLY"
   },
   "pnl_recalculated": true,
   "pnl_schema_version": 2,
   "pnl_summary": {
-    "realized_estimated_points": -1.2499999999999858,
-    "realized_estimated_value": -81.24999999999909,
-    "unrealized_estimated_points": 1.7999999999999972,
-    "net_estimated_points": 0.5500000000000114,
+    "realized_estimated_points": -1.049999999999983,
+    "realized_estimated_value": -68.24999999999889,
+    "unrealized_estimated_points": -2.549999999999997,
+    "net_estimated_points": -3.59999999999998,
     "realized_actual_points": null,
     "realized_actual_value": null,
-    "closed_trade_count": 3,
+    "closed_trade_count": 5,
     "confirmed_fill_trade_count": 0,
-    "missing_confirmed_fill_trade_count": 3,
+    "missing_confirmed_fill_trade_count": 5,
     "open_position_count": 1,
     "reconciliation_required_count": 0,
     "lifecycle_counts": {
@@ -7234,7 +7236,7 @@
     ]
   },
   "nlb_last_error": "entry blocked: existing open position on this option side",
-  "updated_at_ist": "2026-08-20T11:24:05.070922+05:30",
+  "updated_at_ist": "2026-08-20T12:03:05.059166+05:30",
   "cooldown_bars": 3,
   "min_hold_bars": 3,
   "auto_shifted_this_tick": {
@@ -7242,8 +7244,8 @@
     "PE": false
   },
   "cooldown_exit_time": {
-    "CE": "2026-08-20T10:21:05.065201+05:30",
-    "PE": null
+    "CE": "2026-08-20T11:51:05.076650+05:30",
+    "PE": "2026-08-20T11:29:05.063552+05:30"
   },
   "migrated_from_date": "2026-08-19",
   "legacy_state_preserved": {
@@ -9958,6 +9960,6 @@
     "missing_trade_id_sides": [],
     "incomplete_closed_trade_ids": [],
     "stale_exit_pending_trade_ids": [],
-    "at_ist": "2026-08-20T11:24:05.070922+05:30"
+    "at_ist": "2026-08-20T12:03:05.059166+05:30"
   }
 }
