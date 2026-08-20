@@ -2525,48 +2525,6 @@
     "61671": {
       "history": [
         {
-          "Datetime": "2026-08-20T10:28:00+05:30",
-          "Open": 107.3,
-          "High": 107.65,
-          "Low": 105.2,
-          "Close": 105.35
-        },
-        {
-          "Datetime": "2026-08-20T10:29:00+05:30",
-          "Open": 105.5,
-          "High": 107.7,
-          "Low": 105.5,
-          "Close": 106.95
-        },
-        {
-          "Datetime": "2026-08-20T10:30:00+05:30",
-          "Open": 107.05,
-          "High": 108.05,
-          "Low": 106.25,
-          "Close": 108.0
-        },
-        {
-          "Datetime": "2026-08-20T10:31:00+05:30",
-          "Open": 107.8,
-          "High": 108.2,
-          "Low": 106.25,
-          "Close": 107.8
-        },
-        {
-          "Datetime": "2026-08-20T10:32:00+05:30",
-          "Open": 107.7,
-          "High": 108.45,
-          "Low": 106.95,
-          "Close": 107.25
-        },
-        {
-          "Datetime": "2026-08-20T10:33:00+05:30",
-          "Open": 107.25,
-          "High": 107.95,
-          "Low": 106.7,
-          "Close": 107.3
-        },
-        {
           "Datetime": "2026-08-20T10:34:00+05:30",
           "Open": 107.35,
           "High": 107.7,
@@ -4623,53 +4581,53 @@
           "High": 117.0,
           "Low": 116.2,
           "Close": 116.85
+        },
+        {
+          "Datetime": "2026-08-20T15:28:00+05:30",
+          "Open": 116.75,
+          "High": 117.55,
+          "Low": 116.3,
+          "Close": 117.15
+        },
+        {
+          "Datetime": "2026-08-20T15:29:00+05:30",
+          "Open": 117.45,
+          "High": 117.85,
+          "Low": 116.75,
+          "Close": 117.2
+        },
+        {
+          "Datetime": "2026-08-20T15:30:00+05:30",
+          "Open": 117.15,
+          "High": 117.55,
+          "Low": 115.5,
+          "Close": 115.75
+        },
+        {
+          "Datetime": "2026-08-20T15:31:00+05:30",
+          "Open": 115.7,
+          "High": 115.7,
+          "Low": 113.1,
+          "Close": 114.0
+        },
+        {
+          "Datetime": "2026-08-20T15:32:00+05:30",
+          "Open": 113.65,
+          "High": 115.85,
+          "Low": 113.65,
+          "Close": 115.8
+        },
+        {
+          "Datetime": "2026-08-20T15:33:00+05:30",
+          "Open": 115.8,
+          "High": 115.8,
+          "Low": 114.7,
+          "Close": 114.95
         }
       ]
     },
     "61684": {
       "history": [
-        {
-          "Datetime": "2026-08-20T10:28:00+05:30",
-          "Open": 87.25,
-          "High": 89.0,
-          "Low": 87.1,
-          "Close": 88.45
-        },
-        {
-          "Datetime": "2026-08-20T10:29:00+05:30",
-          "Open": 88.6,
-          "High": 88.75,
-          "Low": 87.0,
-          "Close": 87.3
-        },
-        {
-          "Datetime": "2026-08-20T10:30:00+05:30",
-          "Open": 87.15,
-          "High": 88.3,
-          "Low": 86.45,
-          "Close": 87.0
-        },
-        {
-          "Datetime": "2026-08-20T10:31:00+05:30",
-          "Open": 86.9,
-          "High": 88.4,
-          "Low": 86.7,
-          "Close": 87.5
-        },
-        {
-          "Datetime": "2026-08-20T10:32:00+05:30",
-          "Open": 87.5,
-          "High": 88.0,
-          "Low": 86.95,
-          "Close": 88.0
-        },
-        {
-          "Datetime": "2026-08-20T10:33:00+05:30",
-          "Open": 87.8,
-          "High": 88.2,
-          "Low": 87.1,
-          "Close": 87.85
-        },
         {
           "Datetime": "2026-08-20T10:34:00+05:30",
           "Open": 88.0,
@@ -6727,18 +6685,60 @@
           "High": 74.9,
           "Low": 74.0,
           "Close": 74.25
+        },
+        {
+          "Datetime": "2026-08-20T15:28:00+05:30",
+          "Open": 74.1,
+          "High": 74.2,
+          "Low": 73.4,
+          "Close": 73.95
+        },
+        {
+          "Datetime": "2026-08-20T15:29:00+05:30",
+          "Open": 73.95,
+          "High": 74.9,
+          "Low": 73.5,
+          "Close": 74.85
+        },
+        {
+          "Datetime": "2026-08-20T15:30:00+05:30",
+          "Open": 74.7,
+          "High": 75.25,
+          "Low": 74.6,
+          "Close": 75.2
+        },
+        {
+          "Datetime": "2026-08-20T15:31:00+05:30",
+          "Open": 75.25,
+          "High": 77.5,
+          "Low": 75.2,
+          "Close": 76.8
+        },
+        {
+          "Datetime": "2026-08-20T15:32:00+05:30",
+          "Open": 77.0,
+          "High": 77.1,
+          "Low": 76.15,
+          "Close": 76.25
+        },
+        {
+          "Datetime": "2026-08-20T15:33:00+05:30",
+          "Open": 76.2,
+          "High": 76.35,
+          "Low": 75.5,
+          "Close": 75.95
         }
       ]
     }
   },
   "last_emitted": {
-    "61671": "2026-08-20T15:27:00+05:30",
-    "61684": "2026-08-20T15:27:00+05:30"
+    "61671": "2026-08-20T15:33:00+05:30",
+    "61684": "2026-08-20T15:33:00+05:30"
   },
   "latest_signals": {
     "61671": {
       "tf_min": 1,
-      "time_ist": "2026-08-20T15:27:00+05:30",
+      "time_ist": "2026-08-20T15:33:00+05:30",
       "strike": 24250,
       "cp": "CE",
       "st_21_3": "BEAR",
@@ -6748,7 +6748,7 @@
       "adx_enabled": false,
       "adx_period": 14,
       "adx_candle_mode": "HA",
-      "adx_value": 39.28484352412698,
+      "adx_value": 43.09211957312815,
       "adx_ready": true,
       "adx_entry_threshold": 20.0,
       "adx_exit_threshold": 15.0,
@@ -6758,7 +6758,7 @@
       "adx_trend_pass": true,
       "adx_entry_pass": true,
       "adx_force_exit": false,
-      "option_price": 116.85,
+      "option_price": 114.95,
       "premium_gate_enabled": false,
       "premium_min_price": 150.0,
       "premium_max_price": 250.0,
@@ -6766,31 +6766,31 @@
       "premium_entry_pass": true,
       "trade_action": "NO TRADE",
       "trade_reason": "trade window closed",
-      "candle_lag_seconds": 5.053855
+      "candle_lag_seconds": 5.07143
     },
     "61684": {
       "tf_min": 1,
-      "time_ist": "2026-08-20T15:27:00+05:30",
+      "time_ist": "2026-08-20T15:33:00+05:30",
       "strike": 24250,
       "cp": "PE",
       "st_21_3": "BULL",
-      "st_14_2": "BEAR",
+      "st_14_2": "BULL",
       "st_7_1": "BULL",
-      "signal": "MIXED",
+      "signal": "ALL_BULL",
       "adx_enabled": false,
       "adx_period": 14,
       "adx_candle_mode": "HA",
-      "adx_value": 17.763242021627942,
+      "adx_value": 18.816399334715555,
       "adx_ready": true,
       "adx_entry_threshold": 20.0,
       "adx_exit_threshold": 15.0,
       "adx_trend_mode": "RISING",
       "adx_trend_bars": 3,
-      "adx_trend_state": "FALLING",
-      "adx_trend_pass": false,
+      "adx_trend_state": "RISING",
+      "adx_trend_pass": true,
       "adx_entry_pass": true,
       "adx_force_exit": false,
-      "option_price": 74.25,
+      "option_price": 75.95,
       "premium_gate_enabled": false,
       "premium_min_price": 150.0,
       "premium_max_price": 250.0,
@@ -6798,17 +6798,17 @@
       "premium_entry_pass": true,
       "trade_action": "NO TRADE",
       "trade_reason": "trade window closed",
-      "candle_lag_seconds": 5.053855
+      "candle_lag_seconds": 5.07143
     }
   },
   "entry_targets": {
     "CE": {
       "anchor_strike": 24250,
       "anchor_token": "61671",
-      "anchor_price": 116.85,
+      "anchor_price": 114.95,
       "strike": 24250,
       "token": "61671",
-      "price": 116.85,
+      "price": 114.95,
       "shifted": false,
       "shift_steps": 0,
       "selection_mode": "SELECTED",
@@ -6817,10 +6817,10 @@
     "PE": {
       "anchor_strike": 24250,
       "anchor_token": "61684",
-      "anchor_price": 74.25,
+      "anchor_price": 75.95,
       "strike": 24250,
       "token": "61684",
-      "price": 74.25,
+      "price": 75.95,
       "shifted": false,
       "shift_steps": 0,
       "selection_mode": "SELECTED",
@@ -6884,7 +6884,7 @@
     ]
   },
   "nlb_last_error": "entry blocked: existing open position on this option side",
-  "updated_at_ist": "2026-08-20T15:28:05.053855+05:30",
+  "updated_at_ist": "2026-08-20T15:34:05.071430+05:30",
   "cooldown_bars": 3,
   "min_hold_bars": 3,
   "auto_shifted_this_tick": {
@@ -9608,6 +9608,6 @@
     "missing_trade_id_sides": [],
     "incomplete_closed_trade_ids": [],
     "stale_exit_pending_trade_ids": [],
-    "at_ist": "2026-08-20T15:28:05.053855+05:30"
+    "at_ist": "2026-08-20T16:03:05.079499+05:30"
   }
 }
