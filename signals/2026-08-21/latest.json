@@ -25,10 +25,10 @@
     "CE": {
       "anchor_strike": 24300,
       "anchor_token": "61685",
-      "anchor_price": 73.65,
+      "anchor_price": 72.05,
       "strike": 24300,
       "token": "61685",
-      "price": 73.65,
+      "price": 72.05,
       "shifted": false,
       "shift_steps": 0,
       "selection_mode": "SELECTED",
@@ -37,10 +37,10 @@
     "PE": {
       "anchor_strike": 24300,
       "anchor_token": "61703",
-      "anchor_price": 83.9,
+      "anchor_price": 84.55,
       "strike": 24300,
       "token": "61703",
-      "price": 83.9,
+      "price": 84.55,
       "shifted": false,
       "shift_steps": 0,
       "selection_mode": "SELECTED",
@@ -52,7 +52,7 @@
   "signal_type": "BOTH",
   "start_trade_time": "09:15",
   "end_trade_time": "15:20",
-  "updated_at_ist": "2026-08-21T15:31:05.060525+05:30",
+  "updated_at_ist": "2026-08-21T15:34:05.062358+05:30",
   "signals": {
     "61685": {
       "tf_min": 5,
