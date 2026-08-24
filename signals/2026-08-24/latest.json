@@ -1,0 +1,60 @@
+{
+  "date": "2026-08-24",
+  "atm": 24300,
+  "nifty_first_open": 24291.05,
+  "expiry": "2026-08-25",
+  "selected_tf": 5,
+  "candle_mode": "HA",
+  "adx": {
+    "enabled": false,
+    "period": 14,
+    "entry_threshold": 20.0,
+    "exit_threshold": 15.0,
+    "trend_mode": "RISING",
+    "trend_bars": 3,
+    "candle_mode": "HA",
+    "trend_epsilon": 0.0
+  },
+  "premium_gate": {
+    "enabled": false,
+    "min_price": 150.0,
+    "max_price": 250.0,
+    "auto_shift_on_max_enabled": false
+  },
+  "entry_targets": {
+    "CE": {
+      "anchor_strike": 24300,
+      "anchor_token": "61685",
+      "anchor_price": 80.2,
+      "strike": 24300,
+      "token": "61685",
+      "price": 80.2,
+      "shifted": false,
+      "shift_steps": 0,
+      "selection_mode": "SELECTED",
+      "reason": "auto shift disabled"
+    },
+    "PE": {
+      "anchor_strike": 24300,
+      "anchor_token": "61703",
+      "anchor_price": 45.8,
+      "strike": 24300,
+      "token": "61703",
+      "price": 45.8,
+      "shifted": false,
+      "shift_steps": 0,
+      "selection_mode": "SELECTED",
+      "reason": "auto shift disabled"
+    }
+  },
+  "selected_ce_strike": 24300,
+  "selected_pe_strike": 24300,
+  "signal_type": "BOTH",
+  "start_trade_time": "09:15",
+  "end_trade_time": "15:20",
+  "updated_at_ist": "2026-08-24T09:17:05.056244+05:30",
+  "signals": {
+    "61685": {},
+    "61703": {}
+  }
+}
