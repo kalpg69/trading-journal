@@ -25,10 +25,10 @@
     "CE": {
       "anchor_strike": 24200,
       "anchor_token": "61647",
-      "anchor_price": 134.8,
+      "anchor_price": 134.5,
       "strike": 24200,
       "token": "61647",
-      "price": 134.8,
+      "price": 134.5,
       "shifted": false,
       "shift_steps": 0,
       "selection_mode": "SELECTED",
@@ -52,7 +52,7 @@
   "signal_type": "BOTH",
   "start_trade_time": "09:15",
   "end_trade_time": "15:20",
-  "updated_at_ist": "2026-08-25T15:31:07.059200+05:30",
+  "updated_at_ist": "2026-08-25T15:34:05.057658+05:30",
   "signals": {
     "61647": {
       "tf_min": 5,

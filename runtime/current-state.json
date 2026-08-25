@@ -2525,27 +2525,6 @@
     "61647": {
       "history": [
         {
-          "Datetime": "2026-08-20T09:27:00+05:30",
-          "Open": 132.05,
-          "High": 133.7,
-          "Low": 130.6,
-          "Close": 131.0
-        },
-        {
-          "Datetime": "2026-08-20T09:28:00+05:30",
-          "Open": 131.4,
-          "High": 133.25,
-          "Low": 131.3,
-          "Close": 132.05
-        },
-        {
-          "Datetime": "2026-08-20T09:29:00+05:30",
-          "Open": 132.45,
-          "High": 133.0,
-          "Low": 128.6,
-          "Close": 130.4
-        },
-        {
           "Datetime": "2026-08-20T09:30:00+05:30",
           "Open": 130.9,
           "High": 131.0,
@@ -13023,32 +13002,32 @@
           "High": 135.2,
           "Low": 134.4,
           "Close": 134.8
+        },
+        {
+          "Datetime": "2026-08-25T15:31:00+05:30",
+          "Open": 134.5,
+          "High": 135.15,
+          "Low": 134.5,
+          "Close": 134.5
+        },
+        {
+          "Datetime": "2026-08-25T15:32:00+05:30",
+          "Open": 134.85,
+          "High": 134.9,
+          "Low": 134.45,
+          "Close": 134.55
+        },
+        {
+          "Datetime": "2026-08-25T15:33:00+05:30",
+          "Open": 134.85,
+          "High": 134.85,
+          "Low": 134.45,
+          "Close": 134.5
         }
       ]
     },
     "61670": {
       "history": [
-        {
-          "Datetime": "2026-08-20T09:27:00+05:30",
-          "Open": 77.45,
-          "High": 78.0,
-          "Low": 75.65,
-          "Close": 78.0
-        },
-        {
-          "Datetime": "2026-08-20T09:28:00+05:30",
-          "Open": 78.15,
-          "High": 78.2,
-          "Low": 76.7,
-          "Close": 77.6
-        },
-        {
-          "Datetime": "2026-08-20T09:29:00+05:30",
-          "Open": 77.2,
-          "High": 79.9,
-          "Low": 77.1,
-          "Close": 78.85
-        },
         {
           "Datetime": "2026-08-20T09:30:00+05:30",
           "Open": 78.4,
@@ -23527,6 +23506,27 @@
           "High": 0.05,
           "Low": 0.05,
           "Close": 0.05
+        },
+        {
+          "Datetime": "2026-08-25T15:31:00+05:30",
+          "Open": 0.05,
+          "High": 0.05,
+          "Low": 0.05,
+          "Close": 0.05
+        },
+        {
+          "Datetime": "2026-08-25T15:32:00+05:30",
+          "Open": 0.05,
+          "High": 0.05,
+          "Low": 0.05,
+          "Close": 0.05
+        },
+        {
+          "Datetime": "2026-08-25T15:33:00+05:30",
+          "Open": 0.05,
+          "High": 0.05,
+          "Low": 0.05,
+          "Close": 0.05
         }
       ]
     }
@@ -23605,10 +23605,10 @@
     "CE": {
       "anchor_strike": 24200,
       "anchor_token": "61647",
-      "anchor_price": 134.8,
+      "anchor_price": 134.5,
       "strike": 24200,
       "token": "61647",
-      "price": 134.8,
+      "price": 134.5,
       "shifted": false,
       "shift_steps": 0,
       "selection_mode": "SELECTED",
@@ -23667,7 +23667,7 @@
     "data_quality_warnings": []
   },
   "nlb_last_error": null,
-  "updated_at_ist": "2026-08-25T15:31:07.059200+05:30",
+  "updated_at_ist": "2026-08-25T15:34:05.057658+05:30",
   "cooldown_bars": 3,
   "min_hold_bars": 3,
   "auto_shifted_this_tick": {
@@ -26382,6 +26382,6 @@
     "missing_trade_id_sides": [],
     "incomplete_closed_trade_ids": [],
     "stale_exit_pending_trade_ids": [],
-    "at_ist": "2026-08-25T15:31:07.059200+05:30"
+    "at_ist": "2026-08-25T16:27:05.063690+05:30"
   }
 }
