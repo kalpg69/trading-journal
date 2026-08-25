@@ -25,10 +25,10 @@
     "CE": {
       "anchor_strike": 24200,
       "anchor_token": "61647",
-      "anchor_price": 19.2,
+      "anchor_price": 18.65,
       "strike": 24200,
       "token": "61647",
-      "price": 19.2,
+      "price": 18.65,
       "shifted": false,
       "shift_steps": 0,
       "selection_mode": "SELECTED",
@@ -37,10 +37,10 @@
     "PE": {
       "anchor_strike": 24200,
       "anchor_token": "61670",
-      "anchor_price": 52.65,
+      "anchor_price": 51.7,
       "strike": 24200,
       "token": "61670",
-      "price": 52.65,
+      "price": 51.7,
       "shifted": false,
       "shift_steps": 0,
       "selection_mode": "SELECTED",
@@ -52,11 +52,11 @@
   "signal_type": "BOTH",
   "start_trade_time": "09:15",
   "end_trade_time": "15:20",
-  "updated_at_ist": "2026-08-25T10:55:05.075866+05:30",
+  "updated_at_ist": "2026-08-25T11:26:05.061688+05:30",
   "signals": {
     "61647": {
       "tf_min": 5,
-      "time_ist": "2026-08-25T10:50:00+05:30",
+      "time_ist": "2026-08-25T11:20:00+05:30",
       "strike": 24200,
       "cp": "CE",
       "st_21_3": "BEAR",
@@ -66,7 +66,7 @@
       "adx_enabled": false,
       "adx_period": 14,
       "adx_candle_mode": "HA",
-      "adx_value": 58.138870644327625,
+      "adx_value": 49.929469238119516,
       "adx_ready": true,
       "adx_entry_threshold": 20.0,
       "adx_exit_threshold": 15.0,
@@ -76,7 +76,7 @@
       "adx_trend_pass": false,
       "adx_entry_pass": true,
       "adx_force_exit": false,
-      "option_price": 19.2,
+      "option_price": 17.65,
       "premium_gate_enabled": false,
       "premium_min_price": 150.0,
       "premium_max_price": 250.0,
@@ -84,11 +84,11 @@
       "premium_entry_pass": true,
       "trade_action": "NO TRADE",
       "trade_reason": "supertrend mixed",
-      "candle_lag_seconds": 5.075866
+      "candle_lag_seconds": 7.067551
     },
     "61670": {
       "tf_min": 5,
-      "time_ist": "2026-08-25T10:50:00+05:30",
+      "time_ist": "2026-08-25T11:20:00+05:30",
       "strike": 24200,
       "cp": "PE",
       "st_21_3": "BULL",
@@ -98,7 +98,7 @@
       "adx_enabled": false,
       "adx_period": 14,
       "adx_candle_mode": "HA",
-      "adx_value": 33.295328131237476,
+      "adx_value": 23.23243723543225,
       "adx_ready": true,
       "adx_entry_threshold": 20.0,
       "adx_exit_threshold": 15.0,
@@ -108,7 +108,7 @@
       "adx_trend_pass": false,
       "adx_entry_pass": true,
       "adx_force_exit": false,
-      "option_price": 52.65,
+      "option_price": 52.9,
       "premium_gate_enabled": false,
       "premium_min_price": 150.0,
       "premium_max_price": 250.0,
@@ -116,7 +116,7 @@
       "premium_entry_pass": true,
       "trade_action": "NO TRADE",
       "trade_reason": "supertrend mixed",
-      "candle_lag_seconds": 5.075866
+      "candle_lag_seconds": 7.067551
     }
   }
 }
