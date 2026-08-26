@@ -111,7 +111,7 @@
     "data_quality_warnings": []
   },
   "nlb_last_error": null,
-  "updated_at_ist": "2026-08-26T14:04:05.056954+05:30",
+  "updated_at_ist": "2026-08-26T15:03:05.059528+05:30",
   "cooldown_bars": 3,
   "min_hold_bars": 3,
   "auto_shifted_this_tick": {
@@ -2821,6 +2821,6 @@
     "missing_trade_id_sides": [],
     "incomplete_closed_trade_ids": [],
     "stale_exit_pending_trade_ids": [],
-    "at_ist": "2026-08-26T14:04:05.056954+05:30"
+    "at_ist": "2026-08-26T15:03:05.059528+05:30"
   }
 }
